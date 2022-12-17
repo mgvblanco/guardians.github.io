@@ -1,0 +1,5 @@
+site_name: Guardians of the Data
+site: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
